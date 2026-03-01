@@ -73,22 +73,8 @@ I continuously explore advanced backend concepts, system design, and performance
 
 <hr style="border:0.3px solid #d1d5db; margin:20px 0;" />
 
-<!-- Projects Section -->
-## Projects
 
-### Socium (FastAPI, MongoDB)
-- Built RESTful Social Media API  
-- Implemented secure CRUD operations  
-- Designed scalable backend architecture  
-- Media upload & storage handling  
 
-### EliteEditor (Flask, MySQL, OpenCV)
-- Developed image editor (crop, resize, filters)  
-- Integrated facial recognition module  
-- Real-time facial expression analysis  
-- Web-based processing interface  
-
-<hr style="border:0.3px solid #d1d5db; margin:20px 0;" />
 
 <!-- Quote Section -->
 <p align="center" style="font-family: 'Inter', sans-serif;">
