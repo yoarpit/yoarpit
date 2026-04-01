@@ -42,6 +42,8 @@ I continuously explore advanced backend concepts, system design, and performance
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi" height="42" style="margin-right:15px;"/>
   <img src="https://skillicons.dev/icons?i=flask" height="42" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=springboot" height="42" style="margin-right:15px;"/>
+
 </p>
 
 ### Databases
