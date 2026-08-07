@@ -76,7 +76,7 @@ I continuously explore advanced backend concepts, system design, and performance
 <hr style="border:0.3px solid #d1d5db; margin:20px 0;" />
 
 
-
+<img src="https://komarev.com/ghpvc/?username=yoarpit&color=F7941E&style=for-the-badge" alt="profile views"/>
 
 <!-- Quote Section -->
 <p align="center" style="font-family: 'Inter', sans-serif;">
